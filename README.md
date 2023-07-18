@@ -1,1 +1,1 @@
-# GitOps Workshop.
+# GitOps Workshop
